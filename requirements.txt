@@ -1,2 +1,2 @@
-sklearn
-matplotlib.pyplot
+conda
+matplotlib
