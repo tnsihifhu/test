@@ -13,7 +13,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
-        python-version: 3.6.5
+        python-version: '3.6.5'
         architecture: 'x64'
     - name: Add conda to system path
       run: |
